@@ -5,20 +5,40 @@ h1
 li
 {
 	font-family: monospace;
+	line-height: 1.5em;
+
 }
 body
 {
-	width: 50%;
 	margin: auto;
+	width: 50%;
+}
+h2
+{
+	background-color: #222222;
+	border-radius: 6px 22px;
+	color: #93DDA6;
+	display: block;
+	padding: 28px 32px 32px 32px;
+	width: 320px;
+}
+.textoCriativo
+{	
+	max-width: 320px;
+	margin-left: 8px;
+	line-height: 1.4em;
+	font-family: roboto, sans-serif;
+	letter-spacing: 0.3px;
 }
 .textoRodape
 {
+	font-family: roboto, sans-serif;
 	background-color: grey;
 	border-radius: 6px 22px;
 	color: #f1f1f1;
 	display: inline-block;
 	font-size: 14px;
 	letter-spacing: 0.5px;
-	margin-top: 64px;
-	padding: 12px 32px 16px;
+	margin-top: 32px;
+	padding: 12px 32px 14px;
 }

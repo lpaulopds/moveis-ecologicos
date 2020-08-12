@@ -13,11 +13,12 @@ body
 }
 .textoRodape
 {
-	margin-top: 64px;
-	letter-spacing: 0.5px;
 	background-color: grey;
-	display: inline-block;
-	padding: 12px 32px 16px;
 	border-radius: 6px 22px;
-	color: #f1f1f1;font-size: 14px;
+	color: #f1f1f1;
+	display: inline-block;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	margin-top: 64px;
+	padding: 12px 32px 16px;
 }
